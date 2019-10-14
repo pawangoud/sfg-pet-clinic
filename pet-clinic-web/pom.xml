@@ -11,11 +11,6 @@
 
     <artifactId>pet-clinic-web</artifactId>
 
-    <scm>
-        <developerConnection>scm:git:git@github.com:springframeworkguru/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-0.0.1</tag>
-    </scm>
-
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
